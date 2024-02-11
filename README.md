@@ -1,3 +1,2 @@
 # Certificacoes
-Certificações/Certificados
-Nesta pasta registro minhas certificações relacionadas a Tecnologia da Informação para validação do conhecimento.
+Nesta pasta registro minhas certificações relacionadas a Tecnologia da Informação para as devidas validações do conhecimento.
